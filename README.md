@@ -1,4 +1,4 @@
-GitBook Example
+Hacking Rustc
 =======
 
 Welcome in your GitBook!
